@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Nuevo usuario registrado para DevOps Learning</h1>
-    <p>****Por favor rellena los campos de una vez!!!!.****</p>
+    <p>Por favor rellena los campos de una vez!!!!.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
